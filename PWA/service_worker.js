@@ -1,9 +1,7 @@
 var cacheName = 'Kacper-pwa';
 var filesToCache = [
-  'index.html',
-  'css/Buttons.css',
-  'js/script.js'
-];
+  './index.html'
+  ];
 
 /* Cache contents when Offline See Cache */
 self.addEventListener('install', function(e) {
