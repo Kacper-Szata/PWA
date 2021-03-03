@@ -1,9 +1,8 @@
 var cacheName = 'Kacper-pwa';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/css/Buttons.css',
-  '/js/script.js'
+  'index.html',
+  'css/Buttons.css',
+  'js/script.js'
 ];
 
 /* Cache contents when Offline See Cache */
